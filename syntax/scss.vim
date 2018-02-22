@@ -197,8 +197,8 @@ hi def link scssExtend    PreProc
 hi def link scssOptional  Special
 hi def link scssComment   Comment
 hi def link scssStickyCommentChar Special
-hi def link scssSelectorChar Special
-hi def link scssSelectorName Identifier
+hi def link scssSelectorChar cssClassName
+hi def link scssSelectorName cssClassName
 hi def link scssAmpersand Character
 hi def link scssDebug     Debug
 hi def link scssWarn      Debug
